@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Adds all non-tiered ores to asteroids, in a balanced way.",
+  "friendlyName" : "Richer Asteroids",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/751145712",
+  "name" : "RicherAsteroids",
+  "steamContentId" : "751145712",
+  "version" : "0.0.1"
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "op": "replace",
+    "path": "/asteroid/0/1/0/1",
+    "value": 0.6
+  },
+  {
+    "op": "add",
+    "path": "/asteroid/0/1/-",
+    "value": [
+      "coal",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/asteroid/0/1/-",
+    "value": [
+      "iron",
+      0.75
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/asteroid/0/1/-",
+    "value": [
+      "diamond",
+      0.15
+    ]
+  }
+]
